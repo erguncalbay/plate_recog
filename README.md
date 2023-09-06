@@ -1,2 +1,3 @@
-# plate_recog
-Plate Recognization with AI and Frontend
+## Plate Recognization
+
+#AI,Frontened,Embeded Software
